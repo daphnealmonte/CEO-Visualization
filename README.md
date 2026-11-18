@@ -1,2 +1,2 @@
 # Manufacturer Segmentation & Inventory Investment Analysis-
-This is a manufacturer data analysis sample data from an online source. 
+Executive Question: How can the organization optimize inventory investment, reduce supplier risk, and improve procurement efficiency?
